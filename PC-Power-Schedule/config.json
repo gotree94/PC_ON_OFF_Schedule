@@ -1,0 +1,5 @@
+{
+  "wakeTimes": ["05:00", "17:00"],
+  "sleepTimes": ["08:00", "23:00"],
+  "rebootDelaySeconds": 10
+}

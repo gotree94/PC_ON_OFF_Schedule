@@ -1,0 +1,15 @@
+﻿2026-10-17 00:10:08 [INFO] Power settings: hibernate enabled, wake timers enabled (AC + DC).
+2026-10-17 00:10:09 [INFO] Registered tasks: PCPower-Wake [05:00, 17:00], PCPower-Sleep [08:00, 23:00], PCPower-BootCheck [startup].
+2026-10-17 00:10:11 [ERROR] Registration FAILED: The string AC ?꾩썝 ?ㅼ젙|AC Power Setting Index|DC ?꾩썝 ?ㅼ젙|DC Power Setting Index|?꾩옱 蹂꾩묶|Current AC is not a valid regular expression: parsing "AC ?꾩썝 ?ㅼ젙|AC Power Setting Index|DC ?꾩썝 ?ㅼ젙|DC Power Setting Index|?꾩옱 蹂꾩묶|Current AC" - Quantifier {x,y} following nothing.
+2026-10-17 00:10:52 [INFO] Power settings: hibernate enabled, wake timers enabled (AC + DC).
+2026-10-17 00:10:53 [INFO] Registered tasks: PCPower-Wake [05:00, 17:00], PCPower-Sleep [08:00, 23:00], PCPower-BootCheck [startup].
+2026-10-17 00:10:55 [INFO] Registration complete.
+2026-10-17 00:11:14 [INFO] Wake task fired. PC is awake at 00:11:14.
+2026-10-17 00:11:15 [DRYRUN] [DRYRUN] Flag + OFF-window conditions met. Would hibernate now.
+2026-10-17 00:11:15 [WHATIF] [WHATIF] Would create hibernate flag and run: shutdown /r /t 10 /f
+2026-10-17 00:19:49 [INFO] Power settings: hibernate enabled, wake timers enabled (AC + DC).
+2026-10-17 00:19:50 [INFO] Registered tasks: PCPower-Wake [05:00, 17:00], PCPower-Sleep [08:00, 23:00], PCPower-BootCheck [startup].
+2026-10-17 00:19:51 [INFO] Registration complete.
+2026-10-17 04:01:52 [INFO] Boot check: no pending hibernate flag. Nothing to do.
+2026-10-17 04:07:58 [INFO] Boot check: no pending hibernate flag. Nothing to do.
+2026-10-17 05:00:02 [INFO] Wake task fired. PC is awake at 05:00:02.
